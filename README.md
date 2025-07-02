@@ -19,6 +19,7 @@
 💬 I believe in **clear communication**, **adaptability**, and **never-ending learning** — whether it's tech, team-building, or travel 🌍
 
 🎯 I’ve also participated in sports (inter-IIIT volleyball 🏐), NCC Alpha grade cadet 🎖️, and tech fests during my time at **IIITA**.
+
 ---
 ### ⚙️ My Technical Skills
 **Frontend:**  
