@@ -3,10 +3,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Omtambe99)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/your-id/) -->
 
-💡 I am an aspiring **Full Stack Web Developer** and **Engineering student** passionate about creating clean, responsive, and meaningful digital experiences.  
+💡 I am an aspiring **Full Stack Web Developer** and **Electronics and Communication Engineering student** .  
 🚀 I’m currently exploring both **web technologies** and **core technical domains** like **MATLAB simulations**, **IoT**, and **renewable energy systems**.  
 🛠️ I enjoy solving problems through **JavaScript**, **C++**, and **MATLAB**, and love building meaningful interfaces.  
-🔋 I recently worked on a **PV-based Electric Vehicle Charging System** using MATLAB/Simulink that simulates energy-efficient off-grid charging!  
 💬 I believe in **clear communication**, **adaptability**, and **never-ending learning** — whether it's tech, team-building, or travel 🌍  
 🎯 I’ve also participated in sports (inter-IIIT volleyball 🏐), NCC Alpha grade cadet 🎖️, and tech fests during my time at **IIITA**.
 
